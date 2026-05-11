@@ -196,8 +196,8 @@ Example:
 ### Saravanan Nadanasabesan
 **Data Analyst | Power BI | ETL | SQL | Data Visualization**
 
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your email
-- GitHub: Add your GitHub profile
+- LinkedIn: www.linkedin.com/in/saravanan-nadanasabesan-987129107
+- Email: saravanasabesan@gmail.com
+- GitHub: [Add your GitHub profile](https://github.com/SaravananNadanasabesan)
 
 ---
