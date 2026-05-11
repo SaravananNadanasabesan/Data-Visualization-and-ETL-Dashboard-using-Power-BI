@@ -182,11 +182,8 @@ Potential future improvements include:
 
 # 📸 Dashboard Preview
 
-> Add dashboard screenshots here
 
-Example:
-```md
-![Dashboard Overview](images/dashboard-overview.png)
+- Folder: images/dashboard-overview.png
 ```
 
 ---
@@ -198,6 +195,6 @@ Example:
 
 - LinkedIn: www.linkedin.com/in/saravanan-nadanasabesan-987129107
 - Email: saravanasabesan@gmail.com
-- GitHub: [Add your GitHub profile](https://github.com/SaravananNadanasabesan)
+- GitHub: https://github.com/SaravananNadanasabesan
 
 ---
