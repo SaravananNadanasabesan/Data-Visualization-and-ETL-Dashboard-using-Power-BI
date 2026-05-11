@@ -182,8 +182,11 @@ Potential future improvements include:
 
 # 📸 Dashboard Preview
 
+> dashboard screenshots are attached in the images folder.
 
-- Folder: images/dashboard-overview.png
+Example:
+```md
+images/dashboard-overview.png
 ```
 
 ---
