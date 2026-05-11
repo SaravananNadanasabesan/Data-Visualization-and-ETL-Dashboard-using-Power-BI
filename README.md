@@ -1,7 +1,7 @@
 # 📊 Data Visualization and ETL Dashboard using Power BI
 
 ## 📌 Project Overview
-This project was developed as part of the Applied Science and Technology program at Conestoga College between **February 2024 – April 2025**.
+This project was developed as part of the Applied Science and Technology program at Conestoga College between **February 2025 – April 2025**.
 
 The objective of this project was to design and develop an interactive **Power BI dashboard solution** that enables stakeholders to monitor key business metrics, analyze operational trends, and support data-driven decision-making.
 
